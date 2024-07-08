@@ -67,21 +67,21 @@ To use this repository, follow these steps:
 
 ### Percentage Reduction in Trainable Parameters
 
-The percentage reduction in trainable parameters from the benchmark model to our model is calculated as follows:
+The percentage reduction in trainable parameters from the benchmark model to my model is calculated as follows:
 
-Percentage Reduction = (1 - (Our Model's Trainable Parameters / Benchmark Model's Trainable Parameters)) * 100
+Percentage Reduction = (1 - (My Model's Trainable Parameters / Benchmark Model's Trainable Parameters)) * 100
 
 Percentage Reduction = (1 - (20,175 / 1,514,187)) * 100 ≈ 98.67%
 
 ### Accuracy Difference
 
-The accuracy difference between our model and the benchmark model is calculated as follows:
+The accuracy difference between my model and the benchmark model is calculated as follows:
 
-Accuracy Difference = Benchmark Accuracy - Our Model's Accuracy
+Accuracy Difference = Benchmark Accuracy - My Model's Accuracy
 
 Accuracy Difference = 99.87% - 96.08% = 3.79%
 
 ## Conclusion
 
-The model achieves a testing accuracy of 96.08% with a significant reduction in trainable parameters (approximately 98.67% less) compared to the benchmark model. This demonstrates the efficiency of our model in terms of computational resources while maintaining a high level of accuracy.
+The model achieves a testing accuracy of 96.08% with a significant reduction in trainable parameters (approximately 98.67% less) compared to the benchmark model. This demonstrates the efficiency of my model in terms of computational resources while maintaining a high level of accuracy.
 
